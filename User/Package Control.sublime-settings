@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"BracketHighlighter",
+		"C Improved",
+		"ConvertToUTF8",
+		"DeleteBlankLines",
+		"File Navigator",
+		"FileDiffs",
+		"Fortran",
+		"JavaIME",
+		"NCL",
+		"Package Control",
+		"Package Syncing",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"SublimeREPL"
+	],
+	"repositories":
+	[
+		"https://github.com/tushortz/JavaIME"
+	]
+}

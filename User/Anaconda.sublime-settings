@@ -1,0 +1,12 @@
+/*
+    Anaconda user settings
+*/
+{
+	"python_interpreter": "D:\\Program Files (x86)\\Anaconda3\\python.exe",
+    "auto_formatting": true,
+    /*
+        Set to false to disable Anaconda linting entirely.
+    */
+    "anaconda_linting": false,
+    "swallow_startup_errors": true,
+}

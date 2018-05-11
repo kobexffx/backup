@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "make",
+	"shell_cmd": "ncl $file",
+    "selector" : "source.ncl"
+}
